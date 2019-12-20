@@ -81,7 +81,7 @@ public class MainActivity extends AppCompatActivity {
 
                 //looping through all the posts
                 for (int i = 0; i < punchlineList.size(); i++) {
-                    posts[i] = punchlineList.get(i).getContent();
+                    posts[i] = punchlineList.get(i).getContent()+"\n Auteur : "+punchlineList.get(i).getAuthor();
                 }
 
                 //displaying the string array into listview
