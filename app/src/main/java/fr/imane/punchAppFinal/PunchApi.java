@@ -3,6 +3,7 @@ package fr.imane.punchAppFinal;
 
 import java.util.List;
 
+import fr.imane.punchAppFinal.model.Punchline;
 import retrofit2.Call;
 import retrofit2.http.GET;
 

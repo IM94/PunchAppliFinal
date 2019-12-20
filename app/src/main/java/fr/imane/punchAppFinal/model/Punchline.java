@@ -1,4 +1,4 @@
-package fr.imane.punchAppFinal;
+package fr.imane.punchAppFinal.model;
 
 import com.google.gson.annotations.SerializedName;
 

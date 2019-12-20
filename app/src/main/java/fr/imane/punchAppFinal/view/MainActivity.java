@@ -1,4 +1,4 @@
-package fr.imane.punchAppFinal;
+package fr.imane.punchAppFinal.view;
 
 import android.os.Bundle;
 import android.support.annotation.NonNull;
@@ -16,6 +16,9 @@ import android.widget.Toast;
 
 import java.util.List;
 
+import fr.imane.punchAppFinal.PunchApi;
+import fr.imane.punchAppFinal.model.Punchline;
+import fr.imane.punchAppFinal.R;
 import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
