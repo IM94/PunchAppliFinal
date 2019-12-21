@@ -20,4 +20,10 @@ Le négatif :
 
 Malheureusement, je n'ai pas de fragement dans cette version de l'application, ayant du refaire le code suite à de mauvaises manipulation.
 
+### Aperçu de l'application
 
+<img width="366" alt="image" src="https://user-images.githubusercontent.com/48949070/71299641-bce9f980-238e-11ea-8e95-5b92bf687749.png">
+
+### Exemple de recherche
+
+<img width="366" alt="image" src="https://user-images.githubusercontent.com/48949070/71299668-da1ec800-238e-11ea-98e2-ef49d01d0214.png">
